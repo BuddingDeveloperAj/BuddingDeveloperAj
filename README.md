@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ajay Ravi</h1>
 <h3 align="center">A Budding Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddingdeveloperaj" alt="buddingdeveloperaj" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buddingdeveloperaj" alt="buddingdeveloperaj" /></a> </p> -->
 
-- 🔭 I’m currently working with **Thinkgrid Labs**
+- 🔭 I’m currently working with **Zuper**
 
 - 👨‍💻 All of my projects are available at [https://portfollio.live/AjayRavi](https://portfollio.live/AjayRavi)
 
