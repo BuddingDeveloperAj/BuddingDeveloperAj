@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working with **Zuper**
 
-- 👨‍💻 All of my projects are available at [https://portfollio.live/AjayRavi](https://portfollio.live/AjayRavi)
+- 👨‍💻 All of my projects are available
 
 - 📫 How to reach me **https://www.linkedin.com/in/ajay-ravi-6606bb153/**
 
